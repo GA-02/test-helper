@@ -1,0 +1,1 @@
+{"version":3,"sources":["Intro.css"],"names":[],"mappings":"AAAA,OACE,aAAc,CACd,SAAU,CACV,eAAgB,CAChB,gBACF","file":"main.990c4157.chunk.css","sourcesContent":[".Intro {\n  display: block;\n  width: 30%;\n  max-width: 240px;\n  margin: 20px auto;\n}\n"]}
