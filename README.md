@@ -31,5 +31,4 @@ Go to created folder and run:
 [npm-url]: https://npmjs.com/package/@vkontakte/create-vk-mini-app
 
 [deps]: https://img.shields.io/david/vkcom/create-vk-mini-app.svg
-[deps-url]: https://david-dm.org/vkcom/create-vk-mini-app"# test-helper" 
-"# test-helper" 
+[deps-url]: https://david-dm.org/vkcom/create-vk-mini-app
